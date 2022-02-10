@@ -2,6 +2,9 @@
   "name": "chatbot-sweet-home",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "xjkit"
+  },
   "scripts": {
     "dev": "bottender dev",
     "lint": "eslint . ",
