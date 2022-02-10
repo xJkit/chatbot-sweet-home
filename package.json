@@ -1,0 +1,23 @@
+{
+  "name": "chatbot-sweet-home",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "bottender dev",
+    "lint": "eslint . ",
+    "start": "bottender start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@sentry/node": "^6.17.6",
+    "bottender": "1.5.5",
+    "dayjs": "^1.10.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "jest": "^27.5.1",
+    "prettier": "^2.5.1"
+  }
+}
